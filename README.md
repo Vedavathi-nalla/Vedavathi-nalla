@@ -10,6 +10,8 @@
 <a href="https://www.hackerrank.com/nalla vedavathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalla vedavathi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veda_15_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veda_15_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nalla_vedavathi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nalla_vedavathi1" height="30" width="40" /></a>
+
+<a href="https://www.codingninjas.com/studio/profile/nalla_vedavathi" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fcodingninjas-2&psig=AOvVaw3RlJC0Jff1UBTR8MRf7Cnj&ust=1687331281461000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjc3NSk0f8CFQAAAAAdAAAAABAE" alt="@nalla_vedavathi1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
