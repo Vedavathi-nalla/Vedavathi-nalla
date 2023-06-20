@@ -5,13 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nalla-vedavathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalla-vedavathi" height="30" width="40" /></a>
-<a href="https://kaggle.com/nalla vedavathi 19mia1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nalla vedavathi 19mia1106" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nalla vedavathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalla vedavathi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nalla-vedavathi15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalla-vedavathi" height="30" width="40" /></a>
+<a href="https://kaggle.com/vedavathi19mia1106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nalla vedavathi 19mia1106" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nalla vedavathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalla vedavathi" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/veda_15_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veda_15_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nalla_vedavathi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nalla_vedavathi1" height="30" width="40" /></a>
-
-<a href="https://www.codingninjas.com/studio/profile/nalla_vedavathi" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fcodingninjas-2&psig=AOvVaw3RlJC0Jff1UBTR8MRf7Cnj&ust=1687331281461000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjc3NSk0f8CFQAAAAAdAAAAABAE" alt="@nalla_vedavathi1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/nalla_vedavathi1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nalla_vedavathi1" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/nalla_vedavathi" target="blank"><img align="center" src="https://scontent.fmaa14-1.fna.fbcdn.net/v/t39.30808-6/296147592_2018745671662587_6096738208180601413_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9X5b2qmXR9sAX_XU4lD&_nc_ht=scontent.fmaa14-1.fna&oh=00_AfB6s8_GRn6zyg3oWKsXiqn6dk8voG9PWDD6cT_yG3BfIQ&oe=6496A22B" alt="@nalla_vedavathi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
