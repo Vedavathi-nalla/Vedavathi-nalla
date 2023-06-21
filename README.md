@@ -1,22 +1,8 @@
 ![BannerGIF](https://raw.githubusercontent.com/Vedavathi-nalla/Vedavathi-nalla/master/porfolio.gif)
 
-<h1 align="left">Hi 👋, There</h1>
+<h1 align="left">👋 Hey there! I'm Nalla Vedavathi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedavathi-nalla&label=Profile%20views&color=0e75b6&style=flat" alt="vedavathi-nalla" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalla-vedavathi15)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nallavedavathi@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vedavathi19mia1106)
-[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/nalla_vedavathi)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/veda_15_)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/nalla_vedavathi1?hr_r=1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nallavedavathi.github.io/)
-
-[![website](https://raw.githubusercontent.com/Vedavathi-nalla/Vedavathi-nalla/master/scanner.png)](https://nallavedavathi.github.io/)
 
 
 ### Languages
@@ -60,5 +46,23 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalla-vedavathi15)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nallavedavathi@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vedavathi19mia1106)
+[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/nalla_vedavathi)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/veda_15_)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/nalla_vedavathi1?hr_r=1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nallavedavathi.github.io/)
+
+[![website](https://raw.githubusercontent.com/Vedavathi-nalla/Vedavathi-nalla/master/scanner.png)](https://nallavedavathi.github.io/)
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedavathi-nalla&" alt="vedavathi-nalla" /></p>
