@@ -14,6 +14,8 @@
 <a href="https://www.codingninjas.com/studio/profile/nalla_vedavathi" target="blank"><img align="center" src="https://scontent.fmaa14-1.fna.fbcdn.net/v/t39.30808-6/296147592_2018745671662587_6096738208180601413_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9X5b2qmXR9sAX_XU4lD&_nc_ht=scontent.fmaa14-1.fna&oh=00_AfB6s8_GRn6zyg3oWKsXiqn6dk8voG9PWDD6cT_yG3BfIQ&oe=6496A22B" alt="@nalla_vedavathi" height="30" width="30" /></a>
 </p>
 
+[![scanner](https://github.com/Vedavathi-nalla/Vedavathi-nalla/assets/68542087/ceffefb0-86a9-45ee-9398-2c7dcab1edfc)](https://nallavedavathi.github.io/)
+
 
 ### Languages
 
