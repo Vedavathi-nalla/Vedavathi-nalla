@@ -16,6 +16,7 @@
 
 [![scanner](https://github.com/Vedavathi-nalla/Vedavathi-nalla/assets/68542087/ceffefb0-86a9-45ee-9398-2c7dcab1edfc)](https://nallavedavathi.github.io/)
 
+[![](https://raw.githubusercontent.com/Vedavathi-nalla/Vedavathi-nalla/master/scanner.png)](https://nallavedavathi.github.io/)
 
 ### Languages
 
